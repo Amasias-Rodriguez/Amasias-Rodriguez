@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amasias Rodriguez</h1>
-<h3 align="center">Enthusiastic Web Developer from Panama</h3>
+<h3 align="center">A Frontend Web Developer</h3>
 
 - 🌱 I’m currently learning **React, Typescript, MySQL**
 
